@@ -1,0 +1,4 @@
+array:Un arreglo se define utilizando [].
+ es una variable que te permite guardar una lista de elementos y de cualquier tipo de dato.
+es posible ingresar/seleccionar a cualquiera de los datos de adentro de el array atravez de un indice,
+iniciando desde el "0" que seria el primer dato del mismo.

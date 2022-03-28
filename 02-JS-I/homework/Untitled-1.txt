@@ -1,0 +1,5 @@
+	* Variables - objeto al que se le puede cambiar el valor 
+	* Strings - dato de tipo texto 
+	* Funciones (argumentos, `return`)
+	* Declaraciones `if`
+	* Valores booleanos (`true`, `false`)
